@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work_Shop</title>
+    <link rel="icon" href="tap_logo.png">
+    <style>
+        header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color: magenta;
+}
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+    section {
+        background-color:rgb(12, 0, 139);
+        padding-top: 30px;
+        margin-top: 30px;
+        color: white;
+        height: 700px;
+    }
+    #one p{
+        text-align: center;
+        font-size: 20px;
+    }
+    #one h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    #two {
+        font-size: 18px;
+        text-align: center;
+    }
+    #submit{
+    border: 1px salmon;
+    padding: 10px;
+    background-color:darkgreen;
+    color: white;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 40px;
+    }
+    #submit:hover {
+    background-color:aqua;
+    color: black;
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <div id="head">
+            <a id="tel" href="tel:08069878321" target="_blank" rel="nofollow"><img src="telephone_logo.png" height="25" width="25">&nbsp;&nbsp;08069878321</a>
+            <a id="mail" href="mailto:hello@thetapacademy.com" target="_blank" rel="nofollow"><img src="mail_Logo.png" height="25" width="25">&nbsp;&nbsp;hello@thetapacademy.com</a>
+            <a id="you" href="https://www.youtube.com/tapacademy"><img src="youtube_logo.png" height="25" width="25"></a>
+            <a id="insta" href="https://www.instagram.com/tapacademy_online/"><img src="instagram_logo.png" height="25" width="25"></a>
+        </div>
+    </header>
+    <nav class="nav">
+        <div>
+            <a id="tap" href="index.html"><img src="tapAcadamylogo.png" height="50" width="130"></a>
+            <a href="index.html">Home</a>
+            <a href="courses.html">Courses</a>
+            <a href="student_reviews.html">Student Reviews</a>
+            <a href="blogs.html">Blogs</a>
+            <a href="placements.html">Placements</a>
+            <a href="contact_us.html">Contact Us</a>
+            <a id="try" href="try_for_free.html">Try For Free</a>
+        </div>
+    </nav>
+    <section>
+        <div id="one">
+            <p>Get Unlimited Placement Opportunity</p>
+            <h1>Book Your Seat for Full Stack Web Development Training</h1>
+            <p>The only Training Institute with a Structured Hybrid Learning Model with <br> 24/7 Doubt Clarification.</p>
+        </div><br>
+        <div id="two">
+            <form action="submit.html">
+            <label for="Name"><b>Name &#9734;</b></label>
+            <input type="text" id="Name" required name="Na" placeholder="Name" pattern="[a-zA-Z]{3-15}"><br><br>
+            <label for="email"><b>Email &#9734;</b></label>
+            <input type="email" name="email" id="email" required placeholder="example@gmail.com" pattern="[a-zA-Z0-9._%+-]+@[a-z0-9.-]+\.[a-zA-Z]{2,4}"><br><br>
+            <label for="number"><b>Whatsapp Number &#9734;</b></label>
+            <input type="text" name="pnum" id="pnum" required placeholder="Enter your Mobile Number" pattern="[6-9]{1}[0-9]{9}"><br><br>
+            <p><b>Year of Passing</b></p>
+            <label for="101">
+                <input type="radio" value="year0" name="year" id="101">2019
+            </label>
+            <label for="102">
+                <input type="radio" value="year1" name="year" id="102">2020
+            </label>
+            <label for="103">
+                <input type="radio" value="year2" name="year" id="103">2021
+            </label>
+            <label for="104">
+                <input type="radio" value="year4" name="year" id="104">2022
+            </label>
+            <label for="105">
+                <input type="radio" value="year3" name="year" id="105">2023
+            </label>
+            <br><br>
+            <p><b>Mode of Training</b></p>
+            <label for="106">
+                <input type="radio" value="type" name="mode" id="106">Online
+            </label>
+            <label for="107">
+                <input type="radio" value="type" name="mode" id="107">Offline
+            </label>
+            <br><br><br>
+            <input id="submit" type="submit" value="REGISTER FOR THE TRAINING">
+            </form>
+        </div>
+    </section>
+</body>
+</html>
