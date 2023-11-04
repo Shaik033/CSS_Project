@@ -1,0 +1,119 @@
+header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color:deeppink;
+}
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+section {
+    background-color: #FCF5ED;
+    text-align: center;
+    height: 500px;
+}
+#submit{
+    border: 1px salmon;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    width: 100px;
+}
+#submit:hover {
+    background-color:aqua;
+    color: black;
+}
+#one {
+    padding-top: 20px;
+    margin-top: 30px;
+}
+#one h1{
+    font-size: 40px;
+}
+#one p {
+    font-size: 20px;
+}
+.form {
+    font-size: 16px;
+}
+.form input {
+    font-size: large;
+}
+aside {
+    background-color: #F4BF96;
+    text-align: center;
+    border: 1px snow;
+    border-radius: 20px;
+    height: 350px;
+    padding-top: 20px;
+    margin-top: 10px;
+    font-family: poppins,Sans-serif;
+}
+aside a {
+    color :darkred;
+    text-align: center;
+}
+.map {
+    margin: 30px;
+    margin-left: 0px;
+}
+footer {
+    background-color: #1F1717;
+    padding-top: 30px;
+    padding-left: 200px;
+    color: white;
+    height: 550px;
+}
+footer a {
+    color: deepskyblue;
+    
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+footer b {
+    font-size: 20px;
+}
+footer pre {
+    font-size: 16px;
+}

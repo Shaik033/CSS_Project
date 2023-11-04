@@ -1,0 +1,144 @@
+header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color: magenta;
+}
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+section {
+    background-color: #FBA1B7;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 40px;
+    height: 550px;
+}
+section i {
+    color: gold;
+}
+section a{
+    padding: 10px;
+    border: 1px salmon;
+    color: black;
+    background-color: aqua;
+}
+section a:hover {
+    background-color:brown;
+    color: white;
+}
+section p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+section h1{
+    font-size: 40px;
+}
+article {
+    background-color: #FFD1DA;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 10px;
+    height: 550px;
+}
+article a {
+    padding: 10px;
+    border: 1px;
+    color: black;
+    background-color:aquamarine;
+}
+article a:hover {
+    background-color: coral;
+    color: black;
+}
+article p {
+    font-family:sans-serif;
+    font-size: 20px;
+}
+article h1{
+    font-size: 40px;
+}
+aside {
+    background-color: #FFF0F5;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 10px;
+    height: 1080px;
+}
+aside p {
+    font-family: cursive;
+    font-size: 18px;
+}
+aside h1 {
+    font-size: 40px;
+}
+aside i {
+    color: #940B92;
+}
+aside img {
+    margin-left: 50px;
+}
+footer {
+    background-color: #FFDBAA;
+    padding-top: 30px;
+    padding-left: 200px;
+    color:rgb(75, 14, 133);
+    height: 550px;
+    margin-top: 15px;
+}
+footer a {
+    color:blueviolet;
+    
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+footer a:hover {
+    color: black;
+}
+footer b {
+    font-size: 20px;
+}
+footer pre {
+    font-size: 16px;
+}

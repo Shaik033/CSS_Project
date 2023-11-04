@@ -1,0 +1,138 @@
+header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color: magenta;
+}
+
+
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+section {
+    background-color: #91C8E4;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 30px;
+    color: black;
+    height: 1650px;
+}
+section h1 {
+    font-size: 40px;
+}
+section i {
+    color: green;
+}
+section p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+section img {
+    margin-left: 70px;
+}
+article {
+    background-color: #668db4;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 15px;
+    height: 1060px;
+}
+article h1 {
+    font-size: 40px;
+}
+article video {
+    margin-left: 80px;
+}
+article i {
+    color: #940B92;
+}
+article p {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 20px;
+}
+aside {
+    background-color: #F5F7F8;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+aside a {
+    border: 1px snow;
+    background-color: blueviolet;
+    color: azure;
+    padding: 20px;
+    margin-left: 50px;
+}
+aside a:hover {
+    background-color: coral;
+    color: black;
+}
+footer {
+    background-color: #4682A9;
+    padding-top: 30px;
+    padding-left: 200px;
+    color: white;
+    height: 550px;
+    margin-top: 20px;
+}
+footer b {
+    color: rgb(103, 14, 14);
+}
+footer a {
+    color: black;
+    
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+footer a:hover {
+    color:aqua;
+}
+footer b {
+    font-size: 20px;
+}
+footer pre {
+    font-size: 16px;
+}
+

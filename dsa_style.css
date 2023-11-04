@@ -1,0 +1,149 @@
+header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color: magenta;
+}
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+section {
+    background-color: #64CCC5;
+    padding-top: 30px;
+    margin-top: 30px;
+    color: black;
+    height: 1150px;
+}
+#one{
+    margin-left: 600px;
+}
+section h1 {
+    font-size: 40px;
+    color: crimson;
+    text-align: center;
+}
+section p {
+    font-size: 18px;
+    font-family: cursive;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+#two {
+    font-size: 18px;
+    padding-left: 100px;
+}
+#three p{
+    font-size: 15px;
+    text-align: center;
+}
+#three img {
+    margin-left: 740px;
+}
+article {
+    background-color: #4682A9;
+    padding-top: 30px;
+    margin-top: 10px;
+    color : #EEEEEE;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 1470px;
+}
+article h1 {
+    text-align: center;
+    font-size: 40px;
+    color:aqua;
+}
+article p {
+    margin-left: 40px;
+}
+article h3 {
+    margin-left: 40px;
+}
+#four{
+    margin-left: 40px;
+}
+#five {
+    margin-left: 40px;
+}
+aside {
+    background-color: #176B87 ;
+    padding-top: 30px;
+    margin-top: 10px;
+    color:whitesmoke;
+    height: 1540px;
+}
+aside h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+}
+aside b {
+    color: chartreuse;
+    padding-left: 30px;
+}
+aside p {
+    padding-left: 30px;
+}
+aside i {
+    color: crimson;
+}
+footer {
+    background-color: #053B50;
+    padding-top: 30px;
+    padding-left: 200px;
+    color: white;
+    height: 550px;
+    margin-top: 10px;
+}
+footer a {
+    color: deepskyblue;
+    
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+footer b {
+    font-size: 20px;
+}
+footer pre {
+    font-size: 16px;
+}

@@ -1,0 +1,255 @@
+header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color: magenta;
+}
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+section {
+    background-color: #313866;
+    color: white;
+    padding-top: 20px;
+    margin-top: 25px;
+    height: 1200px;
+}
+#main h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#main p {
+    text-align: center;
+    font-size: 20px;
+}
+#main i{
+    color: aqua;
+}
+section p {
+    font-family: cursive;
+}
+#ful {
+    background-color: white;
+    color: black;
+    width: 600px;
+    margin-left: 100px;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-top: 10px;
+    height: 900px;  
+}
+#ful p{
+    text-align: left;
+}
+#ful i{
+    color: darkorchid;
+}
+#ful a {
+    padding: 10px;
+    background-color: blueviolet;
+    color: aliceblue;
+    margin-left: 200px;
+    text-align: center;
+}
+#two:hover {
+    background-color: cyan;
+    color: black;
+}
+#one {
+    margin-left: 60px;
+}
+#dsa {
+    background-color: white;
+    color: black;
+    width: 600px;
+    margin-left: 800px;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-top: 10px;
+    height: 900px;
+    margin-top: -910px;
+}
+#dsa p {
+    text-align: left;
+}
+#dsa i{
+    color: fuchsia;
+}
+#dsa a {
+    padding: 10px;
+    background-color:darkblue;
+    color: aliceblue;
+    margin-left: 200px;
+    text-align: center;
+}
+#four:hover {
+    background-color: cyan;
+    color: black;
+}
+#three {
+    margin-left: 60px;
+}
+.six {
+    background-color: #504099;
+    text-align: center;
+    height: 480px;
+    padding-top: 15px;
+    margin-top: 10px;
+    color: whitesmoke;
+}
+.six i{
+    color: gold;
+}
+.six h1 {
+    font-size: 40px;
+}
+.six b {
+    font-size: 20px;
+}
+#one1{
+    border: 1px solid honeydew;
+    border-radius: 5px;
+    text-align: left;
+    width: 500px;
+    margin-left: 80px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding: 10px;
+}
+#one1 p{
+    text-align: left;
+    font-size: 16px;
+}
+#two2{
+    border: 1px solid honeydew;
+    border-radius: 5px;
+    text-align: left;
+    width: 500px;
+    margin-left: 80px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding: 10px;
+}
+#two2 p{
+    text-align: left;
+    font-size: 16px;
+}
+#three3{
+    border: 1px solid honeydew;
+    border-radius: 5px;
+    text-align: left;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: -265px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding: 10px;
+}
+#three3 p{
+    text-align: left;
+    font-size: 16px;
+}
+#four4{
+    border: 1px solid honeydew;
+    border-radius: 5px;
+    text-align: left;
+    width: 500px;
+    margin-left: 900px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding: 10px;
+}
+#four4 p{
+    text-align: left;
+    font-size: 16px;
+}
+article {
+    background-color: #974EC3;
+    padding-top: 20px;
+    margin-top: 15px;
+    text-align: center;
+    color: azure;
+    height: 620px;
+}
+article h1 {
+    font-size: 40px;
+}
+article p {
+    font-size: 20px;
+}
+#review {
+    text-align: center;
+}
+#review i {
+    color:coral;
+}
+article img {
+    margin-right: 30px;
+}
+footer {
+    background-color: #DA0C81;
+    padding-top: 30px;
+    padding-left: 200px;
+    color: black;
+    height: 550px;
+    margin-top: 20px;
+}
+footer a {
+    color:white;
+    
+}
+footer b {
+    color: wheat;
+}
+a:hover {
+    color: black;
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+footer b {
+    font-size: 20px;
+}
+footer pre {
+    font-size: 16px;
+}

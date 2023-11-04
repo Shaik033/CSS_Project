@@ -1,0 +1,108 @@
+header {
+    height: 30px;
+    background-color: #F5F7F8;
+    padding: 12px;
+}
+#head {
+    margin-top: 10px;
+}
+#tel{
+    margin-left: 20px;
+    margin-right: 900px;
+}
+a {
+    margin-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(146, 109, 109, 0.8);
+}
+a:hover {
+    color: magenta;
+}
+nav {
+    margin-top: 20px;
+}
+nav a{
+    margin-left: 30px;
+    color: #176B87;
+}
+#tap {
+    margin-right: 300px;
+    margin-left: 60px;
+}
+#try {
+    border: 2px solid rgb(171, 147, 147);
+    padding: 15px;
+}
+#try:hover {
+    background-color: #940B92;
+    color: white;
+}
+section {
+    background-color: #64CCC5;
+    padding-top: 30px;
+    margin-top: 30px;
+    height: 1600px;
+}
+section img {
+    margin-left: 600px;
+}
+section h1 {
+    font-size: 40px;
+    text-align: center;
+    color:rgb(244, 145, 109);
+}
+section i {
+    color: gold;
+}
+section p {
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#one{
+    font-size: 18px;
+    margin-left: 15px;
+}
+#two {
+    font-size: 18px;
+    margin-left: 15px;
+}
+#three {
+    font-size: 18px;
+    margin-left: 15px;
+}
+one1 {
+    font-size: 20px;
+}
+footer {
+    background-color: #435334;
+    padding-top: 30px;
+    padding-left: 200px;
+    color: white;
+    height: 550px;
+    margin-top: 10px;
+}
+footer a {
+    color: deepskyblue;
+    
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+footer b {
+    font-size: 20px;
+}
+footer pre {
+    font-size: 16px;
+}
